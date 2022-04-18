@@ -4,9 +4,7 @@
 
 **Description:**
 
-In this tutorial, we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify.
-
-YouTube: [Serverless Functions](https://youtu.be/J7RKx8f4Frs)
+In this tutorial, we build serverless functions with JavaScript and utilize continuous deployment with GitHub and Netlify by following along Dave Gray's [Serverless Functions](https://youtu.be/J7RKx8f4Frs) YouTube video to display a new dad joke every 3 seconds.
 
 ### Academic Honesty
 
